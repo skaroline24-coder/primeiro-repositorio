@@ -1,0 +1,28 @@
+  img { 
+      width: 300;
+  }
+
+  header
+      background-color: black;
+      color: aqua;
+      text-align: center;
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 16px;
+    } 
+
+    main {  
+        background-color: #ffffff;
+        color: #183c63;
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 16px;
+    }
+
+    .artigo-autor {  
+        font-weight: bold;
+    }
+
+    article
+         display: flex;
+    }
