@@ -2,7 +2,7 @@
       width: 300;
   }
 
-  header
+  header {
       background-color: black;
       color: aqua;
       text-align: center;
@@ -23,6 +23,6 @@
         font-weight: bold;
     }
 
-    article
+    article {
          display: flex;
     }
